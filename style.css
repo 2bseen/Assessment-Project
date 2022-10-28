@@ -1,0 +1,9 @@
+
+.card li:nth-child(even){
+background-color:azure;
+}
+.card li{
+display: flex;
+justify-content: space-between;
+margin :0 .2rem;
+}
